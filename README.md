@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumit-sinha0209
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning competitive programming
+- 👋 Hi, I’m Sumit Sinha
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Competitive Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
