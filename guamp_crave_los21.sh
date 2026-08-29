@@ -5,4 +5,5 @@ git clone https://github.com/sumit-sinha0209/local_manifests -b guamp_Lineage-21
 /opt/crave/resync.sh && \
 source build/envsetup.sh && \
 lunch lineage_guamp-ap2a-userdebug && \
-mka bacon
+mka bacon && \
+tar -czf ccache.tar.gz $CCACHE_DIR || true
